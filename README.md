@@ -1,3 +1,5 @@
-Singleton Diagram
-(singleton_diagram.png)
-Chain of Responsability Diagram
+### Singleton Diagram
+![Singleton](singleton_diagram.png)
+
+### Chain of Responsability
+![ChainOfResponsability](singleton_diagram.png)
