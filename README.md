@@ -6,7 +6,7 @@ TheBoss is an example of the singleton design pattern. Only one instance of TheB
 ### Requeriment diagrama (Singleton)
 ![RequirementDiagram](requeriment_diagram.drawio.png)
 
-The example TheBoss is satisfiying the requeriment "There must be only one Boss"
+The singleton example TheBoss satisfies the requirement "The Boss must be unique"
 
 ### Chain of Responsability
 ![ChainOfResponsability](chainOfResponsability.png)
